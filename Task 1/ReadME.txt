@@ -17,7 +17,7 @@ To run the application:
 Ensure you have Python installed on your system.
 Clone this repository to your local machine.
 Navigate to the project directory.
-Run the Python script todo_list.py.
+Run the Python script To do List.py.
 
 
 Dependencies
